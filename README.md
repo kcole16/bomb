@@ -2,4 +2,4 @@
 
 This is my first app
 
-by Kendall 
+by Kendall Cole
